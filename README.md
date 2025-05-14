@@ -2,7 +2,6 @@
 
 I'm a computer scientist and full stack software engineer, and I love merging my technical work with creating branding, product identities and companies. When I’m not coding, you’ll probably find me composing music, singing or acting on films and shows.
 
----
 ## 🚀 Tech I Use All the Time
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -29,8 +28,6 @@ I'm a computer scientist and full stack software engineer, and I love merging my
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </div>
 
----
-
 ## 🧪 Tech I’ve Used in the Past
 
 _(Includes everything above, plus these across various projects and stacks. I've also most probably forgotten to mention others here.)_
@@ -44,8 +41,6 @@ _(Includes everything above, plus these across various projects and stacks. I've
   <img src="https://img.shields.io/badge/Vue-41B883?logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
 </div>
-
----
 
 ## 🔗 Talk to me
 
