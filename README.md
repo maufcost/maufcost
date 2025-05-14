@@ -3,6 +3,8 @@
 I'm a computer scientist and full stack software engineer, and I love merging my technical work with creating branding, product identities and companies. When I’m not coding, you’ll probably find me composing music, singing or acting on films and shows.
 
 ---
+## 🚀 Tech I Use All the Time
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
