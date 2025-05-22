@@ -1,6 +1,6 @@
 # Hey, there! I'm Mauricio 👋
 
-I'm a computer scientist and full stack software engineer, and I love merging my technical work with creating branding, product identities and companies. When I’m not coding, you’ll probably find me composing music, singing or acting on films and shows.
+I'm a computer scientist and full-stack software engineer, and I love merging my technical work with creating branding, product identities and companies. When I’m not coding, you’ll probably find me composing music, singing or acting on films and shows.
 
 ## 🚀 Tech I Use All the Time
 
